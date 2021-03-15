@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":1,"UpdatePrefixUri":"http://127.0.0.1:8800/master/0_1_0_1/Windows","VersionListLength":11575,"VersionListHashCode":43995661,"VersionListZipLength":5257,"VersionListZipHashCode":-2029979015}

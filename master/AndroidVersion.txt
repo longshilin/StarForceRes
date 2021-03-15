@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":1,"UpdatePrefixUri":"http://127.0.0.1:8800/master/0_1_0_1/Android","VersionListLength":11575,"VersionListHashCode":-751044462,"VersionListZipLength":5266,"VersionListZipHashCode":-1777991923}
