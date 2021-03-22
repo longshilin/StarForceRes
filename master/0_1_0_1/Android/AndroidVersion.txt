@@ -1,1 +1,0 @@
-{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":1,"UpdatePrefixUri":"http://longshilin.com/StarForceRes/master/0_1_0_1/Android","VersionListLength":11575,"VersionListHashCode":115940540,"VersionListZipLength":5289,"VersionListZipHashCode":775796554}
