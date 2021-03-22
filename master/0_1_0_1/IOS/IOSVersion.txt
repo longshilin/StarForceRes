@@ -1,1 +1,0 @@
-{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":1,"UpdatePrefixUri":"http://longshilin.com/StarForceRes/master/0_1_0_1/IOS","VersionListLength":11575,"VersionListHashCode":809427804,"VersionListZipLength":5284,"VersionListZipHashCode":1931064730}
