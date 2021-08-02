@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":108030135,"UpdatePrefixUri":"https://cdn.jsdelivr.net/gh/longshilin/StarForceRes/develop/0_1_0_108030135/IOS","VersionListLength":7196,"VersionListHashCode":1916394148,"VersionListCompressedLength":2807,"VersionListCompressedHashCode":-1361894992}
